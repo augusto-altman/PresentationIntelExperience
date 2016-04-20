@@ -125,6 +125,12 @@ pre[class*="language-"] {
 .code--small {
   font-size: 12px;
 }
+.black {
+  color: #000;
+}
+.transparent-grey {
+  background: rgba(128,128,128,0.78);
+}
 .orion {
   background-image: url("../images/orion.jpg");
 }
@@ -176,6 +182,12 @@ pre[class*="language-"] {
 .thinking {
   background-image: url("../images/thinking.png");
 }
+.huevo {
+  background-image: url("../images/huevo-coso.jpg");
+}
+.oportunidad {
+  background-image: url("../images/oportunidad.jpg");
+}
 .gif {
   background-size: contain;
   background-position: center;
@@ -192,4 +204,13 @@ pre[class*="language-"] {
 }
 .gif--rafa {
   background-image: url("../images/gif/rafa.gif");
+}
+.gif--bubbles {
+  background-image: url("../images/gif/bubble.gif");
+}
+.gif--minions {
+  background-image: url("../images/gif/minions.gif");
+}
+.gif--noidea {
+  background-image: url("../images/gif/noidea.gif");
 }
