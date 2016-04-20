@@ -188,6 +188,9 @@ pre[class*="language-"] {
 .oportunidad {
   background-image: url("../images/oportunidad.jpg");
 }
+.mejorar {
+  background-image: url("../images/mejorar.jpg");
+}
 .gif {
   background-size: contain;
   background-position: center;
@@ -213,4 +216,7 @@ pre[class*="language-"] {
 }
 .gif--noidea {
   background-image: url("../images/gif/noidea.gif");
+}
+.gif--aprender {
+  background-image: url("../images/gif/aprender.gif");
 }
