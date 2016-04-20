@@ -1,23 +1,7 @@
-# PresentationPetriNets
-A brief presentation about why you should learn Petri Nets. Authors: Augusto Altman Quaranta and Ricardo Fretes.
+# PresentationIntelExperience
+A brief presentation about our experience working at Intel Corporation. Authors: Augusto Altman Quaranta, Juan Cruz Pressacco and Maria Belen Ramondelli
 
-## About the authors:
-* Augusto Altman Quaranta
-	* [LinkedIn](https://ar.linkedin.com/in/augustoaltman)
-	* [GitHub](https://github.com/augusto-altman)
-	* [Twitter](https://twitter.com/AugustoAltman)
-	* [NPM](https://www.npmjs.com/~augusto.altman)
-	* [StackOverflow](http://stackoverflow.com/users/3685148/augustoaltman)
-	* [Google+](https://plus.google.com/+AugustoAltmanQuaranta)
-	* Email: augusto.altman@gmail.com
-* Ricardo Fretes
-	* [LinkedIn](https://ar.linkedin.com/in/rgfretes)
-	* [GitHub](https://github.com/rgfretes)
-	* [StackOverflow](https://stackoverflow.com/users/3283943/ricardo-g-fretes)
-	* [Google+](https://plus.google.com/+RicardoFretes)
-	* Email: rgfretes@gmail.com
-
-## Title: Nuestra experiencia con las redes de Petri.
+## Title: Nuestra experiencia profesional.
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
@@ -36,4 +20,3 @@ Then download this repo, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
-
